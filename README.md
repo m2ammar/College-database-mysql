@@ -40,7 +40,7 @@ This project demonstrates practical implementation of relational database concep
 
 * Data retrieval using:
   * `SELECT`
-  * Conditional queries  
+  * `Conditional queries`  
 
 ---
 
@@ -63,7 +63,7 @@ This project demonstrates practical implementation of relational database concep
 
 ---
 
-##  *Learning Outcome*
+##  *Learning Outcomes*
 
 Through this project, I improved my understanding of:
 
@@ -81,3 +81,4 @@ Data Science Student
 Focused on Backend Development & Databases  
 
 ---
+
